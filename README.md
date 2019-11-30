@@ -1,4 +1,4 @@
 # HelloWorld
 
-Just a young warrior, learning his way through this digital world.
+Just a warrior, learning his way through this digital world.
 
